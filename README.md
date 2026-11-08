@@ -135,7 +135,7 @@ The application should be tested using the following scenarios:
 - Database credentials should not be committed to public repositories.
 
 ## Author
-
+Mkonzo Shirlean
 Developed as part of a Java Programming course assignment.
 
 ## Conclusion
